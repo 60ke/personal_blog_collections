@@ -1,2 +1,2 @@
-# personal_blog_collections
-personal_blog_collections(优秀个人技术博客收集)
+# awsome_personal_blog_collections(优秀个人技术博客合集)
+
